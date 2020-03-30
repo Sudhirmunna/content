@@ -3,7 +3,7 @@ const fs = require('fs');
 const restaurants = [
   {
     id: '1',
-    name: "Becky's Burgers",
+    name: "Varma's Burgers",
     priceRange: '$$',
     imageSrc: '/images/1-burger.jpg',
     imageDescription: 'A photo of a burger with fries and a milkshake',
@@ -16,7 +16,7 @@ const restaurants = [
   },
   {
     id: '2',
-    name: 'Chicken Nice',
+    name: 'Sudhir spl Chicken',
     priceRange: '$',
     imageSrc: '/images/2-chicken-rice.jpg',
     imageDescription: 'A photo of Hainanese chicken rice',
@@ -29,7 +29,7 @@ const restaurants = [
   },
   {
     id: '3',
-    name: "Nonna's pizza and pasta",
+    name: "Sudhir's Nonna's pizza and pasta",
     priceRange: '$$',
     imageSrc: '/images/3-pizza.jpg',
     imageDescription: 'A photo of a margherita pizza',
